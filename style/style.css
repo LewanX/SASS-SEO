@@ -63,7 +63,6 @@ body {
   height: 50%; }
 
 .menu_desplegable a {
-  margin: 0 10rem;
   border-radius: 1rem;
   transition-duration: 300ms; }
   .menu_desplegable a:hover {
