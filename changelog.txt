@@ -1,3 +1,7 @@
 *Se utilizó el extend en el archivo "_general.scss"
 *Se agregó un fichero "_maps.scss" usandose en "_inputsStyles.scss"
 *Se agregó un fichero "_mixin.scss" usandose en "_imgStyles.scss"
+
+-Descripcion:Para el SEO, se agregó la etiqueta <meta name="description" content=".[contenido].."
+en cada pagina html.
+-Palabras clave:Se agregó la etiqueta   <meta name="keywords" content="IMPRESION, 3D, DISEÑO, IMPRESORAS 3D, DISEÑO 3D, MODELADO 3D, MODELO 3D, ">, la cual se usa en todas las pàginas 
