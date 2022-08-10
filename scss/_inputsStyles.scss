@@ -1,0 +1,13 @@
+
+.input_contact{
+    color:map-get($map: $mapInput, $key:color);
+    border-radius: map-get($map: $mapInput, $key:tamBorder );
+    border: none;
+    background-color:$soft_pink;
+    box-shadow: $board 0rem 1rem 1.5rem;
+    &::placeholder{
+        opacity: 90%;
+    padding: 10px;
+    color: map-get($map: $mapInput, $key:color);
+    }
+}

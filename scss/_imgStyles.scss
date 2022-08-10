@@ -1,0 +1,27 @@
+
+
+
+.image_logo{
+   @include imagesProperties(5rem,5rem )
+}
+.img_size{
+    width: 15rem;
+}
+
+.img_about{
+    height: 50%;
+}
+.gallery{
+    max-width: 100%;/*al agregarlo quito el espaciado que genera la clase row*/
+    .img_work{
+        @include imagesProperties(80%,90% );
+        max-width: 80%;
+        margin: 10px;
+        transition-duration: 1s;
+        &:hover{
+            box-shadow: $soft_pink 10px 0 20px;
+        }
+    }
+    
+   
+}

@@ -1,0 +1,19 @@
+@import "mixin";
+@import "maps";
+@import "variables";
+@import "imgStyles";
+@import "inputsStyles";
+@import "general";
+
+.menu_desplegable{
+    a{  margin: 0 10rem;
+        border-radius: 1rem;
+        transition-duration: 300ms;
+        &:hover{
+            background-color: $deep_pink;
+            border-radius: 1rem;
+        }
+        
+    }
+}
+

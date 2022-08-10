@@ -1,0 +1,3 @@
+*Se utilizó el extend en el archivo "_general.scss"
+*Se agregó un fichero "_maps.scss" usandose en "_inputsStyles.scss"
+*Se agregó un fichero "_mixin.scss" usandose en "_imgStyles.scss"
